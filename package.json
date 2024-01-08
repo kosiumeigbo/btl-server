@@ -1,0 +1,13 @@
+{
+  "name": "btl-server",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kosiumeigbo/btl-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
